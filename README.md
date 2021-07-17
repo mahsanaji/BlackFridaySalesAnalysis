@@ -4,8 +4,11 @@ Key to a successful business is to increase revenue, which is the topic of inter
 
 About the Data
 
-BlackFriday.csv: Main input CSV for the project
+BlackFriday.csv: Main input CSV for the project 
+
 BlackFridayBasket.csv: Basket data derived from BlackFriday.csv
+
 BlackFridayModelEvaluation.csv: Accuracy comparison of the models
+
 DataMiningBlackFriday.R
 
